@@ -1,0 +1,30 @@
+[
+  {
+    "Author": "Rayziken",
+    "Name": "Auto Summon",
+    "Punchline": "Auto summons carbuncle",
+    "Description": "Because Boup forgets to summon his pet",
+    "Changelog": "",
+    "InternalName": "AutoSummon",
+    "AssemblyVersion": "1.0.0.0",
+    "RepoUrl": "https://github.com/eesandoval/AutoSummon",
+    "ApplicableVersion": "any",
+    "CategoryTags": [
+      "auto",
+      "summon",
+      "carbuncle"
+    ],
+    "DalamudApiLevel": 8,
+    "IconUrl": "",
+    "ImageUrls": [
+      ""
+    ],
+    "DownloadLinkInstall": "https://github.com/eesandoval/DalamudPluginRepo/raw/master/plugins/AutoSummon/latest.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkTesting": "https://github.com/eesandoval/DalamudPluginRepo/raw/master/plugins/AutoSummon/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/eesandoval/DalamudPluginRepo/raw/master/plugins/AutoSummon/latest.zip",
+    "DownloadCount": 0,
+    "LastUpdate": "1674449128"
+  }
+]
