@@ -6,7 +6,7 @@
     "Description": "Because Boup forgets to summon his pet",
     "Changelog": "",
     "InternalName": "AutoSummon",
-    "AssemblyVersion": "1.2.1.0",
+    "AssemblyVersion": "1.2.2.0",
     "RepoUrl": "https://github.com/eesandoval/AutoSummon",
     "ApplicableVersion": "any",
     "CategoryTags": [
@@ -16,7 +16,7 @@
       "selene",
       "eos"
     ],
-    "DalamudApiLevel": 8,
+    "DalamudApiLevel": 9,
     "IconUrl": "",
     "ImageUrls": [
       ""
@@ -27,6 +27,6 @@
     "DownloadLinkTesting": "https://github.com/eesandoval/DalamudPluginRepo/raw/master/plugins/AutoSummon/latest.zip",
     "DownloadLinkUpdate": "https://github.com/eesandoval/DalamudPluginRepo/raw/master/plugins/AutoSummon/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": "1674942104"
+    "LastUpdate": "1696521940"
   }
 ]
