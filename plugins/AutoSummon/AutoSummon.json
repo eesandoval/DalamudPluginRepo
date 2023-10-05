@@ -2,7 +2,7 @@
   "Author": "Rayziken",
   "Name": "Auto Summon",
   "InternalName": "AutoSummon",
-  "AssemblyVersion": "1.2.2.0",
+  "AssemblyVersion": "1.2.3.1",
   "Description": "Because Boup forgets to summon his pet",
   "ApplicableVersion": "any",
   "Tags": [
